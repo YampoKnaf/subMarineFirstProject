@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Submarine Battle</string>
+
+    <!-- game procces Strings -->
+    <string name="who_is_there">Submarine Battle</string>
+    <string name="player_turn">*Its yours turn make a move!*</string>
+    <string name="computer_turn">*Wait for computer to move...*</string>
+
+    <!-- main Activity Strings -->
+    <string name="difficult_lbl">The current difficulty is  </string>
+    <string name="choose_difficult">Choose Difficulty</string>
+</resources>

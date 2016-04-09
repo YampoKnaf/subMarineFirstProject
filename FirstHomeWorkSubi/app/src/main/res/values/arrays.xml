@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ImageOfDisplay">
+        <item>@drawable/ship1</item>
+        <item>@drawable/ship2</item>
+        <item>@drawable/ship3</item>
+        <item>@drawable/ship4</item>
+    </string-array>
+</resources>
